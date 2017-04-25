@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/anim/bottom_in.xml",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/anim/bottom_in.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/anim/top_out.xml",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/anim/top_out.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/anim/top_in.xml",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/anim/top_in.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/anim/bottom_out.xml",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/anim/bottom_out.xml"
+    }
+]

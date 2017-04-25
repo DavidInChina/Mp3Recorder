@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/androidTest/debug/anim/bottom_in.xml",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/bundles/debug/res/anim/bottom_in.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/androidTest/debug/anim/top_in.xml",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/bundles/debug/res/anim/top_in.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/androidTest/debug/anim/bottom_out.xml",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/bundles/debug/res/anim/bottom_out.xml"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/androidTest/debug/anim/top_out.xml",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/bundles/debug/res/anim/top_out.xml"
+    }
+]

@@ -1,0 +1,606 @@
+[
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_me_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_me_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_branch.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_branch.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/normal_orange_1.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/normal_orange_1.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/bg_time.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/bg_time.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/img_flash_04.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/img_flash_04.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_file_p.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_file_p.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_topmail_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_topmail_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_history_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_history_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_save_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_save_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_label_go.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_label_go.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_up_selected.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_up_selected.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_play_normal2.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_play_normal2.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/grey_1.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/grey_1.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_record_audio.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_record_audio.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_up_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_up_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_prompt.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_prompt.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_password.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_password.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_recording_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_recording_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_personalinto_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_personalinto_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/img_circle_red.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/img_circle_red.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_record_complete_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_record_complete_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_circle_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_circle_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/bg_people_eject.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/bg_people_eject.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_vip.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_vip.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_personal_05.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_personal_05.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_delete_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_delete_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_personal_04.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_personal_04.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_sure_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_sure_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_deit_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_deit_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_arrow_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_arrow_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/normal_orange.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/normal_orange.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_addfile_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_addfile_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_history_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_history_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/dark_orange.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/dark_orange.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_stop_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_stop_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/light_blue_1.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/light_blue_1.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_open_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_open_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_phone_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_phone_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/dark_blue_1.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/dark_blue_1.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_keep_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_keep_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/light_orange.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/light_orange.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_record_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_record_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_default_logo.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_default_logo.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_record_complete_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_record_complete_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_from_selected.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_from_selected.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/img_flash_01.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/img_flash_01.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_sideslip_department.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_sideslip_department.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_index_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_index_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/bg_sound_recording.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/bg_sound_recording.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_tighton_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_tighton_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_recording_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_recording_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_close_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_close_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/img_flash_02.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/img_flash_02.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_file_t.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_file_t.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_play_selected.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_play_selected.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_name.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_name.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/dark_blue.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/dark_blue.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/bg_bottom.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/bg_bottom.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_addaudio_selected.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_addaudio_selected.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_comment_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_comment_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/bg_personal_logo.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/bg_personal_logo.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/grey.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/grey.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_up_white_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_up_white_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_file_w.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_file_w.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_personal_03.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_personal_03.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_default_head.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_default_head.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_call.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_call.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_oldcustomers.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_oldcustomers.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_topmail_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_topmail_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/normal_blue.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/normal_blue.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_audio_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_audio_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_phone.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_phone.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_vip_gray.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_vip_gray.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_add_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_add_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/red.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/red.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_file_j.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_file_j.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_from_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_from_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_index_selected.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_index_selected.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_company_department.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_company_department.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_play_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_play_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_personalinto_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_personalinto_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_record_play_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_record_play_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_local_audio.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_local_audio.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_into_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_into_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_add_white_sel.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_add_white_sel.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/light_orange_1.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/light_orange_1.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_add_white_nor.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_add_white_nor.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_mail_selected.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_mail_selected.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_upload_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_upload_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_personal_01.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_personal_01.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_label_local.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_label_local.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_phone_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_phone_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_record_play_selected.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_record_play_selected.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_add_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_add_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_transfer_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_transfer_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/normal_blue_1.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/normal_blue_1.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_addaudio_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_addaudio_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_delete_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_delete_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_go.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_go.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_addfile_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_addfile_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_bluesure_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_bluesure_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_close_red_nor.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_close_red_nor.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_circle_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_circle_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_back_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_back_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/red_1.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/red_1.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_check_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_check_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_arrow_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_arrow_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_audio_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_audio_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/bg_welcome.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/bg_welcome.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_search.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_search.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_label_call.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_label_call.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_into_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_into_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_more_nor.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_more_nor.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/bg_department_eject.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/bg_department_eject.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_dial_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_dial_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_sideslip_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_sideslip_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_dial_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_dial_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_wx.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_wx.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_user.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_user.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_open_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_open_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/light_blue.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/light_blue.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_mail_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_mail_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_me_selected.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_me_selected.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_tighton_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_tighton_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_zfb.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_zfb.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_back_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_back_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_file_x.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_file_x.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_personal_02.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_personal_02.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_more_sel.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_more_sel.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_newcontact.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_newcontact.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_upload_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_upload_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_login_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_login_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/bg_login_box.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/bg_login_box.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/bg_eject_box.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/bg_eject_box.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/dark_orange_1.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/dark_orange_1.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_check_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_check_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_record_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_record_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_file_r.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_file_r.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_up_white_selected.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_up_white_selected.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/img_flash_03.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/img_flash_03.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_transfer_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_transfer_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_bluesure_selected.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_bluesure_selected.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_department.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_department.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/icon_time.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/icon_time.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_login_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_login_pressed.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_sideslip_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_sideslip_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_comment_normal.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_comment_normal.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_sure_selected.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_sure_selected.png"
+    },
+    {
+        "merged": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/build/intermediates/res/merged/debug/mipmap-hdpi-v4/btn_deit_pressed.png",
+        "source": "/Users/davidinchina/Documents/gitWork/Mp3Recorder/mp3Utils/src/main/res/mipmap-hdpi/btn_deit_pressed.png"
+    }
+]

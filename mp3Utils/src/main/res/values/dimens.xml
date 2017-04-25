@@ -1,0 +1,27 @@
+<resources>
+    <!--字体定义-->
+    <dimen name="text_minimum2">8sp</dimen>
+    <dimen name="text_minimum">10sp</dimen>
+    <dimen name="text_mini">12sp</dimen>
+    <dimen name="text_micro">14sp</dimen>
+    <dimen name="text_small">15sp</dimen>
+    <dimen name="text_medium_small">17sp</dimen>
+    <dimen name="text_medium">21sp</dimen>
+    <dimen name="text_large">24sp</dimen>
+    <dimen name="text_big">35sp</dimen>
+
+    <!--一些默认距离大小-->
+    <dimen name="normal_7dp">7dp</dimen>
+    <dimen name="normal_10dp">10dp</dimen>
+    <dimen name="normal_2dp">2dp</dimen>
+    <dimen name="normal_5dp">5dp</dimen>
+    <dimen name="normal_15dp">15dp</dimen>
+    <dimen name="normal_20dp">20dp</dimen>
+    <dimen name="normal_25dp">25dp</dimen>
+    <dimen name="normal_30dp">30dp</dimen>
+    <dimen name="normal_line_10dp">1dp</dimen>
+    <dimen name="normal_line_05dp">0.5dp</dimen>
+    <dimen name="normal_line_02dp">0.2dp</dimen>
+
+
+</resources>

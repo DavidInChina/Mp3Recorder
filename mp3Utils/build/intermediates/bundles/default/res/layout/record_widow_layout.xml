@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bk_black">
+
+    <ImageView
+        android:id="@+id/iv_record_flash"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:src="@mipmap/img_flash_01" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iv_record_flash"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="@dimen/normal_15dp">
+
+        <TextView
+            android:id="@+id/tv_record_durance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            android:drawableLeft="@mipmap/img_circle_red"
+            android:drawablePadding="@dimen/normal_5dp"
+            android:paddingLeft="@dimen/normal_7dp"
+            android:paddingRight="@dimen/normal_7dp"
+            android:text="00:00:05"
+            android:textColor="@color/white" />
+
+        <ImageView
+            android:id="@+id/iv_audio_stop"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@mipmap/btn_stop_normal" />
+
+        <ImageView
+            android:id="@+id/iv_audio_save"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@mipmap/btn_save_normal" />
+
+        <ImageView
+            android:id="@+id/iv_audio_delete"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@mipmap/btn_close_normal" />
+    </LinearLayout>
+</RelativeLayout>
