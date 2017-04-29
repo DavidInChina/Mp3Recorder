@@ -51,7 +51,7 @@ Android平台音频录制工具，可以录制不限时长的mp3文件，支持�
  
 # License
 ```license
-Copyright 2016 Arun Sharma
+Copyright 2017 DavidinChina
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
